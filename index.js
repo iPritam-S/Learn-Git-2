@@ -6,3 +6,9 @@ getX();
 function getX() {
 	console.log(x);
 }
+
+function howToCreatePR(){
+
+	console.log("checkout to new branch; push the new branch; compare and pull req")
+};
+
